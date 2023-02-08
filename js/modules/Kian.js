@@ -52,7 +52,7 @@ export default {
                 correct: "A"
             },
             {
-                question: "How big would your grould will be?",
+                question: "How big would your group will be?",
                 choices: {
                     A: "2-4 people. Easier to move around",
                     B: "I travel alone.",

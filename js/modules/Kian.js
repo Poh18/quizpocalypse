@@ -70,7 +70,7 @@ export default {
                 correct: "A"
             },
             {
-                question: "You walk into a gun store but can only carry three weapons. What would you choose?",
+                question: "You walk into a gun store but can only carry light weapon. What would you choose?",
                 choices: {
                     A: "Nothing, I'm set.",
                     B: "Toothpick",
@@ -79,7 +79,7 @@ export default {
                 correct: "B"
             },
             {
-                question: "The apocalypse is coming to an end but your whole group has died and nw you're surrounded. What would you do?",
+                question: "The apocalypse is coming to an end but your whole group has died and now you're surrounded. What would you do?",
                 choices: {
                     A: "I would fight to the death",
                     B: "Try my hardest to escape, knowing this ordeal is coming to an end",
@@ -87,7 +87,7 @@ export default {
                 },
                 correct: "A"
             },{
-                question: "Supposed hat you have survived the Apocaypse but ave become unstable. You're walkiing outside when you notice someone pale and feverish. You know it is coming again. What would you do?",
+                question: "Supposed that you have survived the Apocaypse but ave become unstable. You're walkiing outside when you notice someone pale and feverish. You know it is coming again. What would you do?",
                 choices: {
                     A: "Kill myself",
                     B: "Kill the man right then and there",

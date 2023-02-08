@@ -1,9 +1,17 @@
 // modules
-import arvic from './modules/arvic.js';
+// import arvic from './modules/arvic.js';
 
 // import your .js file here (e.g. import john from './modules/john.js')
 // ...
 import Kian from './modules/Kian.js';
+import joshua from './modules/joshua.js';
+import rommel from './modules/rommel.js';
+import ric from './modules/ric.js';
+import cristine from './modules/cristine.js';
+import kaye from './modules/kaye.js';
+import jogi from './modules/jogi.js';
+import luc from './modules/luc.js';
+import ivan from './modules/ivan.js';
 import benedict from './modules/benedict.js';
 import nhate from './modules/nhate.js';
 import allen from './modules/allen.js';
@@ -27,11 +35,19 @@ import john from './modules/john.js';
 
 const store = Vuex.createStore({
     modules: {
-        arvic,
+        // arvic,
 
         // include your module here (e.g. john)
         // ...
         Kian,
+        joshua,
+        rommel,
+        ric,
+        cristine,
+        kaye,
+        jogi,
+        luc,
+        ivan,
         benedict,
         nhate,
         allen,

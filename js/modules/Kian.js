@@ -34,7 +34,7 @@ export default {
                 correct: "B"
             },
             {
-                question: "Zombies break into your base and start attacking your friends. Whay do you do?",
+                question: "Zombies break into your base and start attacking your friends. What do you do?",
                 choices: {
                     A: "Sacrifice yourself to save your friends.",
                     B: "Leave them and escapse to save yourself",

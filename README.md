@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-## BSIT-3B | QuizPocalypse
+
 =======
 ## BSIT-3A | QuizPocalypse
->>>>>>> 66715ee8fe7377cb0916651e7d50229a9e9cf694
-Survive the QuizPocalypse, one question at a time!
 
 ### Installation
 1. Log in to your GitHub account using a web browser.

@@ -4,6 +4,8 @@
 // import your .js file here (e.g. import john from './modules/john.js')
 // ...
 import Kian from './modules/Kian.js';
+import francis from './modules/francis.js';
+import louisa from './modules/Louisa.js';
 import joshua from './modules/joshua.js';
 import rommel from './modules/rommel.js';
 import ric from './modules/ric.js';
@@ -32,6 +34,7 @@ import peregrino from './modules/peregrino.js';
 import kayeangela from './modules/kayeangela.js';
 import joebe from './modules/joebe.js';
 import john from './modules/john.js';
+import rofel from './modules/rofel.js';
 
 const store = Vuex.createStore({
     modules: {
@@ -40,6 +43,8 @@ const store = Vuex.createStore({
         // include your module here (e.g. john)
         // ...
         Kian,
+        francis,
+        louisa,
         joshua,
         rommel,
         ric,
@@ -68,6 +73,7 @@ const store = Vuex.createStore({
         kayeangela,
         joebe,
         john,
+        rofel,
     }
 });
 
